@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // 设置起始日期（请将这里的日期改为你们在一起的开始时间）
-    const startDate = new Date('2024-03-15 00:00:00');
+    const startDate = new Date('2019-01-04 00:00:00');
 
     function updateCountdown() {
         const now = new Date();
